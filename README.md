@@ -50,6 +50,15 @@ export default tseslint.config({
 ```
 
 
+# Netflix GPT
+- Create react app with vite
+- Configure Tailwind CSS
+- Header 
+- Routing of app
+- Login Form
+- Sign up form
+- Form Validation
+- useRef Hook
 
 # Features :-
 

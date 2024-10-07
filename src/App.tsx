@@ -1,11 +1,11 @@
 /** @format */
 
+import Body from "./components/Body";
+
 function App() {
   return (
     <>
-      <div>
-        <h1 className="text-2xl text-blue-700 text-center font-bold">Started nextGPT project</h1>
-      </div>
+      <Body />
     </>
   );
 }
